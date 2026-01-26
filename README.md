@@ -245,3 +245,7 @@ python lerobot/scripts/train.py \
 ## 📄 License
 
 This project is provided for research purposes.
+
+## ⚖️ Disclaimer
+
+This software is provided "AS-IS" without any warranties. The authors and contributors assume no responsibility for any damages, injuries, or equipment malfunctions resulting from the use of this software. Use at your own risk.
